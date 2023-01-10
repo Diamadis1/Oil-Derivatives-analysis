@@ -27,6 +27,7 @@ domain of multivariate analysis.
 In our case we use linear regression in order to estimate the coefficients and intercepts in order to establish our functions for each option given. By observing each function one could easily see that the (+-4) option's coefficient
 and intercept are very close while (+-20) option's are very close too. However if we compare the (+-4) and (+-20) option's coefficients and intercepts we could notice that the numbers have a lot of distance between them. Of
 course in all four cases (m) has a negative sign that indicates a bearish pattern
+
 ![image](https://user-images.githubusercontent.com/98957437/211608656-64cf62f1-72f9-40eb-99c6-c0d39bbfed13.png)
 
 Diagrams of the rate of change of the value of the (+-4) and (+-20) Options as a function of index change
