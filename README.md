@@ -14,7 +14,9 @@ III. Drawing the diagrams with the values of the options as they are each Friday
 IV. Calculating the mathematical equation of the change in the value of two different options over time. (E.g. the one corresponding to (+-4) distance from the pointer and that at a distance of (+-20).
 
 Linear Regression
+
 ![image](https://user-images.githubusercontent.com/98957437/211608454-7a75dd1d-0e92-44bc-a608-67f8b051864d.png)
+
 In statistics, linear regression is a linear approach for modelling the relationship between a scalar response and one or more explanatory variables (also known as dependent and independent variables). The case of one
 explanatory variable is called simple linear regression; for more than one, the process is called multiple linear regression. This term is distinct from multivariate linear regression, where multiple correlated dependent variables
 are predicted, rather than a single scalar variable.
