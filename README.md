@@ -36,6 +36,7 @@ Diagrams of the rate of change of the value of the (+-4) and (+-20) Options as a
 ![image](https://user-images.githubusercontent.com/98957437/211609049-6b693744-9486-4602-8bfb-531c2a1c790e.png)
 
 V. Estimating the diagrams of the rate of change of the value of the Option (Those who are within ±4 of the pointer as well as those that are at a distance ±20) as a function of index change
+
 ![image](https://user-images.githubusercontent.com/98957437/211609144-dc9637ba-7af1-4133-8eaf-51fa28c10d9c.png)
 
 CUBIC SPLINE INTERPOLATION (plots)
@@ -43,6 +44,7 @@ CUBIC SPLINE INTERPOLATION (plots)
 ![image](https://user-images.githubusercontent.com/98957437/211609230-6af7061e-bea1-4cf0-ac5b-660d4eedb633.png)
 
 VI. Calculating the first differences in the value of the options and plotting the time series for the period examined for (+-4) and (+-20) options
+
 ![image](https://user-images.githubusercontent.com/98957437/211609459-32ee8dbe-644f-422a-ae25-c99925e9dd22.png)
 ![image](https://user-images.githubusercontent.com/98957437/211609512-11f9fdec-0520-4b71-9224-cebce1fcb3d5.png)
 
